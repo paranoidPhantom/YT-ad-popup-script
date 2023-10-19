@@ -4,7 +4,7 @@ A simple, yet effective script for blocking the new annoying popup on youtube.
 
 ## Installation:
 
-1. [Download tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Download tampermonkey from the <a href="https://www.tampermonkey.net" target="_blank">official website</a>
 2. Open the menu:
 
 ![image](https://github.com/paranoidPhantom/YT-ad-popup-script/assets/46633092/cc462eb6-65d1-4ef0-9b90-5544670a8526)
